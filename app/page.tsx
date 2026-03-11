@@ -443,7 +443,7 @@ export default function WeddingInvitation() {
               <p className="parents-info">
                 Son of<br />
                 <span className="family-name">Vinod T.</span> &amp; <span className="family-name">Bindu P.</span><br />
-                <span style={{ fontSize: '11px', opacity: 0.6 }}>Thekkeyil, Mullambath, Kakkitil</span>
+                <span style={{ fontSize: '11px', opacity: 0.6 }}>Thekkeyil, Mullambath, Kakkattil</span>
               </p>
             </div>
           </div>
